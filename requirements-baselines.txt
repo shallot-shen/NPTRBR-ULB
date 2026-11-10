@@ -1,0 +1,5 @@
+-r requirements.txt
+catboost==1.2.8
+xgboost>=2.0,<4
+lightgbm>=4.0,<5
+rtdl-revisiting-models==0.0.2
